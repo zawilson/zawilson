@@ -9,6 +9,8 @@ I'm also a senior at [Indiana University Purdue University Indianapolis](https:/
 [![Linkedin Badge](https://img.shields.io/badge/-zawils-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zawils/)](https://www.linkedin.com/in/zawils/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@zawils.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@zawils.dev)](mailto:contact@zawils.dev)
 
+<br>
+<br>
 
 ## ⚡ Technologies
 
@@ -31,7 +33,8 @@ I'm also a senior at [Indiana University Purdue University Indianapolis](https:/
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
-
+<br>
+<br>
 
 ### Other Tools:
 
@@ -41,6 +44,9 @@ I'm also a senior at [Indiana University Purdue University Indianapolis](https:/
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+
+<br>
+<br>
 
 ## 📈 Stats
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zawilson&show_icons=true&theme=tokyonight" />
