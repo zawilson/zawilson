@@ -33,9 +33,6 @@ I'm also a senior at [Indiana University Purdue University Indianapolis](https:/
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
-<br>
-<br>
-
 ### Other Tools:
 
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase)
