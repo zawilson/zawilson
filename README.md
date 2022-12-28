@@ -1,7 +1,7 @@
 
 ## Hi, I'm Zach Wilson! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm currently an [Assistant Web Developer at SoIC](https://www.soic.iupui.edu/). Wihtin my work as an Assistant Web Developer I design and develop internally applications for SoIC's Technology Services team using IU Rivet and CodeIgniter 3 and 4.
+I'm currently an [Assistant Web Developer at SoIC](https://www.soic.iupui.edu/). Within my work as an Assistant Web Developer I design and develop internally applications for SoIC's Technology Services team using IU Rivet and CodeIgniter 3 and 4.
 
 
 I'm also a senior at [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). Where I am majoring in [Computer Science](https://cs.iupui.edu/). I am currently working on extending my capstone project to a workable SaaS applicaiton. Find out more about me & feel free to connect with me below:
