@@ -1,10 +1,11 @@
 
 ## Hi, I'm Zach Wilson! Welcome to my Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-I'm currently an [Application Developer at Cornerstone EHS, Inc.](https://cornerstone-ehs.com/). Within my work as an Application Developer I design and develop applications for Cornerstone's SaaS suite and clients.
+As an [Application Developer at Cornerstone EHS, Inc.](https://cornerstone-ehs.com/), I integrate user-facing design elements with server-side logic to develop fully-responsive websites and web applications. I focus on back-end, server-facing web development, using various tools and technologies. I am self-motivated, hardworking, goal-oriented, creative, and flexible.
 
+I am currently pursuing a [Master of Science degree in Information and Communication Sciences at Ball State University](https://www.bsu.edu/academics/collegesanddepartments/cics), which I expect to complete in 2025.I have a Bachelor's degree in Computer Science and Political Science from [Indiana University–Purdue University Indianapolis]((https://www.iupui.edu/)), which I completed in 2023. My education has provided me with a solid foundation in technical and analytical skills and a broad perspective on the social and political implications of technology.
 
-I'm also a senior at [Indiana University Purdue University Indianapolis](https://www.iupui.edu/). Where I am majoring in [Computer Science](https://cs.iupui.edu/). I am currently working on extending my capstone project to a workable SaaS applicaiton. Find out more about me & feel free to connect with me below:
+Find out more about me & feel free to connect with me below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-zawils-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zawils/)](https://www.linkedin.com/in/zawils/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@zawils.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@zawils.dev)](mailto:contact@zawils.dev)
