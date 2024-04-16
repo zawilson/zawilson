@@ -3,7 +3,7 @@
 
 As an [Application Developer at Cornerstone EHS, Inc.](https://cornerstone-ehs.com/), I integrate user-facing design elements with server-side logic to develop fully-responsive websites and web applications. I focus on back-end, server-facing web development, using various tools and technologies. I am self-motivated, hardworking, goal-oriented, creative, and flexible.
 
-I am currently pursuing a [Master of Science degree in Information and Communication Sciences at Ball State University](https://www.bsu.edu/academics/collegesanddepartments/cics), which I expect to complete in 2025.I have a Bachelor's degree in Computer Science and Political Science from [Indiana University–Purdue University Indianapolis]((https://www.iupui.edu/)), which I completed in 2023. My education has provided me with a solid foundation in technical and analytical skills and a broad perspective on the social and political implications of technology.
+I am currently pursuing a [Master of Science degree in Information and Communication Sciences at Ball State University](https://www.bsu.edu/academics/collegesanddepartments/cics), which I expect to complete in 2025. I have a Bachelor's degree in Computer Science and Political Science from [Indiana University–Purdue University Indianapolis]((https://www.iupui.edu/)), which I completed in 2023. My education has provided me with a solid foundation in technical and analytical skills and a broad perspective on the social and political implications of technology.
 
 Find out more about me & feel free to connect with me below:
 
